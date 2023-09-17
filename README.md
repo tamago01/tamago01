@@ -1,8 +1,8 @@
 # 💫 About Me:
-I am Pradeep Lama. I'm a perpetual learner and passionate developer from Nepal .<br>
+I am Pradeep Lama. I'm a perpetual learner and passionate software developer from Nepal .<br>
 
 
-<br>🌱 I’m currently learning Typescript and exploring node.
+<br>🌱 I’m currently exploring Typescript and node.
 <br>👨‍💻 My portfolio is hosted here: https://portfolio-3d-pradeep.vercel.app/
 <br>⚡ I love travelling and exploring.
 
