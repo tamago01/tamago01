@@ -3,7 +3,7 @@ I am Pradeep Lama. I'm a perpetual learner and passionate software developer fro
 
 
 <br>🌱 I’m currently exploring Typescript and Node.
-<br>👨‍💻 My portfolio is hosted here: https://portfolio-3d-pradeep.vercel.app/
+<br>👨‍💻 My portfolio is hosted here: https://lamapradeep.com.np/
 <br>⚡ I love travelling and exploring.
 
 # 💻 Tech Stack:
