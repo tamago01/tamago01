@@ -1,10 +1,10 @@
 # 💫 About Me:
-I am Pradeep Lama. I'm a perpetual learner and passionate software developer from Nepal.<br>
+Hi, I am Pradeep Lama. I'm a perpetual learner and passionate software developer from Nepal.<br>
 
 
 <br>🌱 I’m currently exploring Typescript and Node.
 <br>👨‍💻 My portfolio: https://lamapradeep.com.np/
-<br>⚡ I love travelling and exploring.
+<br>⚡ And I love travelling and exploring.
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
