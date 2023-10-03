@@ -2,7 +2,7 @@
 Hi, I am Pradeep Lama. I'm a perpetual learner and passionate software developer from Nepal.<br>
 
 
-<br>🌱 I’m currently exploring Typescript and Node.
+<br>🌱 I’m currently exploring Typescript and Next.
 <br>👨‍💻 My portfolio: https://lamapradeep.com.np/
 <br>⚡ And I love travelling and exploring.
 
