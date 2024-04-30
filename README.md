@@ -2,7 +2,7 @@
 Hi, I am Pradeep Lama. I'm a perpetual learner and passionate software developer from Nepal.<br>
 
 
-<br>🌱 I’m currently exploring SASS, node and React.
+<br>🌱 I’m currently exploring SASS, Node and React.
 <br>👨‍💻 My portfolio: https://lamapradeep.com.np/
 <br>⚡ And I love travelling and exploring.
 
